@@ -12,7 +12,6 @@ env/
 venv/
 
 # Data files (if large)
-*.csv
 *.xlsx
 *.db
 
